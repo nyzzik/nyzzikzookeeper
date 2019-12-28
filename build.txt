@@ -1,0 +1,4 @@
+displayName = nyzzik's Zookeeper 
+author = nyzzik
+version = 0.1
+buildIgnore = *.csproj, *.vs
